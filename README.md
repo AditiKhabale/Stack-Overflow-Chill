@@ -25,9 +25,9 @@ Increase average order value
 Improve customer retention
 Improve inventory efficiency
 
-## How to view our work- Report: https://github.com/AditiKhabale/Stack-Overflow-Chill/commit/f77f6fa9fe9d6ba47e47ced097d4b485831d23bf
-## Code: https://github.com/AditiKhabale/Stack-Overflow-Chill/blob/main/Vibehack.ipynb
-## Website : https://mouse-acorn-40221582.figma.site
+How to view our work- Report: https://github.com/AditiKhabale/Stack-Overflow-Chill/commit/f77f6fa9fe9d6ba47e47ced097d4b485831d23bf
+Code: https://github.com/AditiKhabale/Stack-Overflow-Chill/blob/main/Vibehack.ipynb
+Website : https://mouse-acorn-40221582.figma.site
 
 ## Team
 Stack Overflow & Chill
